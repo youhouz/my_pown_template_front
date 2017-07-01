@@ -1,1 +1,0 @@
-# my_pown_template_front
